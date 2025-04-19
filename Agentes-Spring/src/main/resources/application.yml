@@ -1,0 +1,9 @@
+spring:
+  application:
+    name:
+      Agentes-Spring
+    profiles:
+      active: prod
+
+url:
+  hosts: https://valorant-api.com/v1/agents/
